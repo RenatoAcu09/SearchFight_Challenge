@@ -1,0 +1,7 @@
+C:\SearchFight_Challenge\SearchFight_Challenge\bin\Debug\SearchFight_Challenge.exe.config
+C:\SearchFight_Challenge\SearchFight_Challenge\bin\Debug\SearchFight_Challenge.exe
+C:\SearchFight_Challenge\SearchFight_Challenge\bin\Debug\SearchFight_Challenge.pdb
+C:\SearchFight_Challenge\SearchFight_Challenge\obj\Debug\SearchFight_Challenge.csprojResolveAssemblyReference.cache
+C:\SearchFight_Challenge\SearchFight_Challenge\obj\Debug\SearchFight_Challenge.exe
+C:\SearchFight_Challenge\SearchFight_Challenge\obj\Debug\SearchFight_Challenge.pdb
+C:\SearchFight_Challenge\SearchFight_Challenge\bin\Debug\Newtonsoft.Json.dll
